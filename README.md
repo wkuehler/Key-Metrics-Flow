@@ -3,11 +3,11 @@
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
 
-## Part 1: Choosing a Development Model
+## Flow diagram
 
-There are two types of developer processes or models supported in Salesforce Extensions for VS Code and Salesforce CLI. These models are explained below. Each model offers pros and cons and is fully supported.
+![image](https://user-images.githubusercontent.com/1509672/73903011-b2fc5700-4865-11ea-9876-128eb117279b.png)
 
-### Package Development Model
+## Result
 
 The package development model allows you to create self-contained applications or libraries that are deployed to your org as a single package. These packages are typically developed against source-tracked orgs called scratch orgs. This development model is geared toward a more modern type of software development process that uses org source tracking, source control, and continuous integration and deployment.
 
