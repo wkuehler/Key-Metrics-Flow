@@ -11,3 +11,7 @@ The approach that we decided on was to build a flow. High level, the logic is to
 ## Result
 
 ![image](https://user-images.githubusercontent.com/1509672/73903098-fce53d00-4865-11ea-9b7a-4e3fb70f9d45.png)
+
+This flow can be added directly to your lighting pages:
+
+![image](https://user-images.githubusercontent.com/1509672/73903258-885ece00-4866-11ea-8f5b-1df799b18b55.png)
